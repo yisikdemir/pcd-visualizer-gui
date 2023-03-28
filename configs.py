@@ -1,3 +1,15 @@
+#------------------------------------------------------------------------------
+# Author: Yunus Emre Işıkdemir
+# 
+# Create Date: 02/11/2021
+#
+# Project Name: Point Cloud Data Visualizer Graphical User Interface
+#
+# Description: The script provides the ability to customize visual settings to 
+#              suit individual preferences.
+# 
+#------------------------------------------------------------------------------
+
 from typing import List, Tuple
 import os
 
