@@ -1,3 +1,15 @@
+#------------------------------------------------------------------------------
+# Author: Yunus Emre Işıkdemir
+# 
+# Create Date: 02/11/2021
+#
+# Project Name: Point Cloud Data Visualizer Graphical User Interface
+#
+# Description: The script presented herein offers a visualization tool capable 
+#              of representing semantic, topological, and metric maps.
+# 
+#------------------------------------------------------------------------------
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
