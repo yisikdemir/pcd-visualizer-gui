@@ -1,3 +1,14 @@
+#------------------------------------------------------------------------------
+# Author: Yunus Emre Işıkdemir
+# 
+# Create Date: 02/11/2021
+#
+# Project Name: Point Cloud Data Visualizer Graphical User Interface
+#
+# Description: The script creates a user interface to use application.
+# 
+#------------------------------------------------------------------------------
+
 from PyQt5.QtWidgets import QDialog
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
